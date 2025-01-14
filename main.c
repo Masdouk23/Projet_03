@@ -39,5 +39,6 @@ case 5:
 default:printf("Erreur \n veuillez entrer l'operation\n");
     break;
 }
+printf("Hello world");
     return 0;
 }
